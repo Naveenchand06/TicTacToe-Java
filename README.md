@@ -7,4 +7,4 @@
 
 <a href="https://replit.com/@Naveenchand/TicTacToe-Java" class="button big">Create Project</a>
 
-[![Open in Replit](https://gitpod.io/button/open-in-gitpod.svg)](https://replit.com/@Naveenchand/TicTacToe-Java)
+[![Open in Replit]](https://replit.com/@Naveenchand/TicTacToe-Java)
