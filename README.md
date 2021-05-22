@@ -5,7 +5,9 @@
 The game of TicTacToe. Made with Java.
 
 <h4>Beginner Project</h4>
-
+<ul>
+  <li>Two - Player</li>
+</ul>
 
 [![Open in Replit]](https://replit.com/@Naveenchand/TicTacToe-Java)
 
