@@ -1,10 +1,10 @@
 # TicTacToe - Java
 
 
-<h3>Beginner Project</h3>
+# TicTacToe Game
+The game of TicTacToe. Made with Java.
 
-<p>A simple beginner project in Java using looping statements and conditional statements.</p>
+#Beginner Project
 
-<a href="https://replit.com/@Naveenchand/TicTacToe-Java" class="button big">Create Project</a>
 
 [![Open in Replit]](https://replit.com/@Naveenchand/TicTacToe-Java)
