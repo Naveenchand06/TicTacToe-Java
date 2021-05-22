@@ -8,3 +8,4 @@ The game of TicTacToe. Made with Java.
 
 
 [![Open in Replit]](https://replit.com/@Naveenchand/TicTacToe-Java)
+<p align="left"> <a href="https://replit.com/@Naveenchand/TicTacToe-Java" target="blank"></a> </p>
